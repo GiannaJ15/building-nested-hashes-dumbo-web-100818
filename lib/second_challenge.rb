@@ -3,11 +3,19 @@ def second_challenge
     :montague => {
       #your key/value pairs here!
       :patriarch =>{}
-      :matriarch =>
+      :matriarch =>{}
+      :hero => {}
+      :hero_friends => []
       }, 
     :capulet => {
+      :patriarch =>{}
+      :matriarch =>{}
+      :heroine => {}
+      :heroine_friends => []
       #your key/value pairs here!
-      }}
+      }
+    
+  }
 
   
 end
